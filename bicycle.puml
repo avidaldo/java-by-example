@@ -1,0 +1,25 @@
+@startuml
+class poo.MountainBike {
+- String suspension
++ String getSuspension()
++ void setSuspension(String)
++ void printDescription()
+}
+class poo.Bicycle {
+~ int cadence
+~ int speed
+~ int gear
+~ void changeCadence(int)
+~ void changeGear(int)
+~ void speedUp(int)
+~ void applyBrakes(int)
+~ void printStates()
++ void printDescription()
+}
+class poo.BicycleTest {
++ {static} void main(String[])
+}
+
+
+poo.Bicycle <|-- poo.MountainBike
+@enduml

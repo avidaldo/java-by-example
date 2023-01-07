@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6043e864-d9f0-4d9c-a39a-91b3cd111fcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaByExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/args/Args.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/bicycle/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/bicycle/BicycleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/bicycle/MountainBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/encapsulacion/ConEncapsulacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/encapsulacion/Defensiva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/encapsulacion/SinEncapsulacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/equals/CompareWithEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/equals/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/flujoBasico/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/herencia/fragileBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/herencia/overidingAndHiding/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/modificadoresAcceso/AccesoPrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/polimorfism/empleado/Comercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/polimorfism/empleado/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/polimorfism/empleado/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/polimorfism/empleado/Programador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/sobrecarga/DiffReturnOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/sobreescritura/Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_basic_syntax/bloques/ScopeBloques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_basic_syntax/goto_/Goto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_basic_syntax/innerClass/InnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_basic_syntax/paso_valor/paso_arrays/PasoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_basic_syntax/paso_valor/paso_objetos/Clase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_basic_syntax/paso_valor/paso_objetos/PasoObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_basic_syntax/staticBlocks/StaticBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_basic_syntax/static_field/EjercicioStaticField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_basic_syntax/tiposYVariables/Basicas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p03_data_structures/listas/ArrayExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p03_data_structures/listas/ArrayWithStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p03_data_structures/listas/ArraysWithListOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p03_data_structures/listas/FixedSizeListInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/EjemploFechasLocalDate/ConvertirFechas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/EjemploFechasLocalDate/EjemploFechasLocalTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/EjemploFechasLocalDate/IntroducirDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/abstractVsInterface/AbstractVsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/abstractVsInterface/DbIndependent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/defaultMethod/DefaultMethodChallenged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/genericos/EjercicioU5_B4_E1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/imperative_declarative/ImperativeDeclarative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/inferenciaTiposJava10/VarLocalVars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/nestedClass/NestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/recursividad/Recursividad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisar/streams/StreamForEach.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jzv06moXRGeJfI3aAGRJIsTvNo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/avida/DATOS/TRABAJO/java_examples/JavaByExample",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\avida\DATOS\TRABAJO\java_examples\EjemplosJava\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6043e864-d9f0-4d9c-a39a-91b3cd111fcb" name="Changes" comment="" />
+      <created>1673093502567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673093502567</updated>
+    </task>
+    <servers />
+  </component>
+</project>
