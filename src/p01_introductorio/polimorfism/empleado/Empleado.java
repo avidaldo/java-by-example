@@ -1,11 +1,8 @@
 package p01_introductorio.polimorfism.empleado;
 
-public class Empleado {
+public abstract class Empleado {
 	int id;
 	String nombre;
 
-	String peri() {
-		return "Empleado";
-	};
 
 }

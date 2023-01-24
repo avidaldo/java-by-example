@@ -1,6 +1,6 @@
-package p02_basic_syntax.static_field;
+package p01_introductorio.static_field;
 
-public class EjercicioStaticField {
+class EjercicioStaticField {
 
 	public static void main(String[] args) {
 		Chachi a = new Chachi();

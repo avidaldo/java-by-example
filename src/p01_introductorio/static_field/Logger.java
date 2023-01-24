@@ -1,4 +1,4 @@
-package p02_basic_syntax.static_field;
+package p01_introductorio.static_field;
 
 final class Logger {
     private static int level = 2; // static field

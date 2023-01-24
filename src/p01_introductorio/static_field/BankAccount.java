@@ -1,4 +1,4 @@
-package p02_basic_syntax.static_field;
+package p01_introductorio.static_field;
 
 class BankAccount {
     private double balance;  // non-static field
@@ -8,9 +8,7 @@ class BankAccount {
         balance += amount;
     }
 
-    public void withdraw(double amount) {
-        balance -= amount;
-    }
+    public void withdraw(double amount) {balance -= amount; }
 
     public double getBalance() {
         return balance;
@@ -24,3 +22,4 @@ class BankAccount {
         return interestRate;
     }
 }
+
