@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6043e864-d9f0-4d9c-a39a-91b3cd111fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/sobrecarga/java_kotlin/DisplayBorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p01_introductorio/sobrecarga/java_kotlin/DisplayBorder.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaByExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaByExample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p01_introductorio/polimorfism/empleado/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p01_introductorio/polimorfism/empleado/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p01_introductorio/polimorfism/empleado/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p01_introductorio/polimorfism/empleado/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p02_basic_syntax/static_field/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p01_introductorio/static_field/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p02_basic_syntax/static_field/EjercicioStaticField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p01_introductorio/static_field/EjercicioStaticField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p02_basic_syntax/static_field/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p01_introductorio/static_field/Logger.java" afterDir="false" />
-    </list>
+    <list default="true" id="6043e864-d9f0-4d9c-a39a-91b3cd111fcb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
